@@ -4,167 +4,169 @@ markmap:
 ---
 # Taxonomía RC v4
 
-## Excluidos
-- **Categoria Indeterminada** (0) — Tipo 4 (No Prioridad)
-- **Error de Parseo** (400) — Tipo 4 (No Prioridad)
-## Tecnología
-- **Audífonos** (4) — Tipo 1 (Gold) ⭐
-- **Cámaras** (6) — Tipo 1 (Gold) ⭐
-- **Desktops y All-in-One** (9) — Tipo 1 (Gold) ⭐
-- **Impresoras y Scanners** (11) — Tipo 1 (Gold) ⭐
-- **Monitores** (13) — Tipo 1 (Gold) ⭐
-- **Notebooks** (14) — Tipo 1 (Gold) ⭐
-- **Parlantes y Soundbars** (15) — Tipo 1 (Gold) ⭐
-- **Smartwatches y Smartbands** (19) — Tipo 1 (Gold)
-- **Sistemas de Audio y Home Theater** (20) — Tipo 1 (Gold) ⭐
-- **Tablets** (21) — Tipo 1 (Gold) ⭐
-- **Televisores** (23) — Tipo 1 (Gold) ⭐
-- **Celulares y Smartphones** (24) — Tipo 1 (Gold) ⭐
-- **Proyectores** (27) — Tipo 1 (Gold) ⭐
-- **Componentes de PC (Tarjetas de video, RAM, Discos Duros/SSD)** (101) — Tipo 2 (Regex)
-- **Consolas de Videojuegos** (102) — Tipo 2 (Regex)
-- **Drones** (103) — Tipo 2 (Regex)
-- **Media Streaming (Chromecast, Apple TV, Roku)** (104) — Tipo 2 (Regex)
-- **Realidad Virtual (VR)** (105) — Tipo 2 (Regex)
-- **Seguridad y Vigilancia Inteligente (Cámaras, Sensores)** (106) — Tipo 2 (Regex)
-- **Smart Home (Asistentes de Voz, Iluminación Inteligente)** (107) — Tipo 2 (Regex)
-- **E-readers** (108) — Tipo 2 (Regex)
-- **Impresión 3D (Impresoras 3D, Filamentos, Resinas)** (109) — Tipo 2 (Regex)
-- **Micrófonos** (110) — Tipo 2 (Regex)
-- **Tabletas Gráficas** (111) — Tipo 2 (Regex)
-- **Accesorios y Periféricos de Tecnología** (112) — Tipo 2 (Regex)
-- **Videocámaras y Filmadoras** (156) — Tipo 1 (Gold) ⭐
-## Electrodomésticos
-- **Aire Acondicionado y Climatización** (33) — Tipo 1 (Gold) ⭐
-- **Aspiradoras y Limpiadores a Vapor** (34) — Tipo 1 (Gold) ⭐
-- **Calefonts y Termos Eléctricos** (35) — Tipo 1 (Gold) ⭐
-- **Campanas y Extractores** (36) — Tipo 1 (Gold)
-- **Cocinas, Hornos y Encimeras** (37) — Tipo 1 (Gold)
-- **Lavadoras y Secadoras** (38) — Tipo 1 (Gold) ⭐
-- **Lavavajillas** (39) — Tipo 1 (Gold) ⭐
-- **Microondas** (41) — Tipo 1 (Gold) ⭐
-- **Pequeños Electrodomésticos de Cocina (otros)** (42) — Tipo 1 (Gold)
-- **Planchas** (43) — Tipo 1 (Gold) ⭐
-- **Refrigeradores, Freezers y Frigobares** (45) — Tipo 1 (Gold) ⭐
-- **Calefactores y Estufas** (137) — Tipo 1 (Gold) ⭐
-- **Parrillas** (138) — Tipo 1 (Gold) ⭐
-- **Ventiladores (Techo, Pedestal, Torre, Mesa)** (155) — Tipo 1 (Gold) ⭐
-- **Cafeteras** (158) — Tipo 2 (Regex)
-- **Freidoras y Multiollas** (159) — Tipo 2 (Regex)
-- **Licuadoras** (160) — Tipo 2 (Regex) ⭐
-- **Batidoras** (161) — Tipo 2 (Regex) ⭐
-- **Sandwicheras y Tostadoras** (162) — Tipo 2 (Regex)
-- **Hervidores Eléctricos** (163) — Tipo 2 (Regex)
-- **Máquinas de Coser** (201) — Tipo 2 (Regex)
-- **Purificadores y Humidificadores** (202) — Tipo 2 (Regex)
-- **Repuestos y Accesorios de Electrodomésticos** (203) — Tipo 4 (No Prioridad)
-## Hogar
-- **Camas y Bases de Cama** (48) — Tipo 1 (Gold)
-- **Colchones** (49) — Tipo 1 (Gold)
-- **Muebles de Dormitorio** (54) — Tipo 1 (Gold)
-- **Muebles de Living** (55) — Tipo 1 (Gold)
-- **Ropa de Cama y Textiles** (57) — Tipo 1 (Gold)
-- **Ampolletas, Focos y Accesorios de Iluminación** (165) — Tipo 2 (Regex)
-- **Adornos, Decoración y Elementos Festivos** (301) — Tipo 2 (Regex)
-- **Aseo y Limpieza del Hogar** (302) — Tipo 2 (Regex)
-- **Lámparas y Luminarias** (303) — Tipo 2 (Regex)
-- **Jardinería (Maceteros, Herramientas de Jardín, Semillas, Cortacéspedes, Riego)** (304) — Tipo 2 (Regex)
-- **Muebles de Comedor** (305) — Tipo 2 (Regex)
-- **Menaje de Cocina, Comedor y Servir** (306) — Tipo 2 (Regex)
-- **Muebles de Oficina** (307) — Tipo 2 (Regex)
-- **Soportes, Racks y Stands** (308) — Tipo 4 (No Prioridad)
-- **Muebles de Baño** (309) — Tipo 4 (No Prioridad)
-- **Termos, Tazas y Mugs** (310) — Tipo 2 (Regex)
-- **Contenedores, Organizadores y Almacenamiento del Hogar (Cajas, Cajones, Canastos, Separadores)** (311) — Tipo 2 (Regex)
-- **Piscinas y Spa (Bombas, Filtros, Cloro, Limpiafondos, Cubiertas)** (312) — Tipo 4 (No Prioridad)
-- **Otros Hogar** (399) — Tipo 4 (No Prioridad)
-## Moda, Accesorios y Calzado
-- **Polerones y Sudaderas** (401) — Tipo 2 (Regex)
-- **Poleras y Camisetas** (402) — Tipo 2 (Regex)
-- **Pantalones y Shorts** (403) — Tipo 2 (Regex)
-- **Chaquetas, Parkas y Abrigos** (404) — Tipo 2 (Regex)
-- **Calzado** (405) — Tipo 2 (Regex)
-- **Ropa Interior, Calcetines y Ropa de Dormir** (406) — Tipo 2 (Regex)
-- **Vestidos, Faldas y Ropa Formal** (407) — Tipo 2 (Regex)
-- **Trajes de Baño y Ropa de Playa** (408) — Tipo 2 (Regex)
-- **Bolsos, Mochilas, Carteras y Equipaje** (409) — Tipo 2 (Regex)
-- **Accesorios de Moda** (410) — Tipo 2 (Regex)
-## Bebés y Maternidad
-- **Calzado Infantil** (501) — Tipo 3 (Validación)
-- **Coches, Sillas de Auto y Paseo Infantil** (502) — Tipo 3 (Validación)
-- **Dormitorio del Bebé** (503) — Tipo 3 (Validación)
-- **Higiene y Cuidado del Bebé** (504) — Tipo 3 (Validación)
-- **Juguetes y Entretención para Bebés** (505) — Tipo 3 (Validación)
-- **Lactancia y Alimentación del Bebé** (506) — Tipo 2 (Regex)
-- **Ropa de Bebé** (507) — Tipo 3 (Validación)
-- **Seguridad para Bebés en el Hogar** (508) — Tipo 3 (Validación)
-- **Otros Bebés y Maternidad** (599) — Tipo 4 (No Prioridad)
-## Niños y Juguetería
-- **Disfraces** (601) — Tipo 3 (Validación)
-- **Juguetes de Exterior** (602) — Tipo 3 (Validación)
-- **Muñecas y Figuras de Acción** (603) — Tipo 3 (Validación)
-- **Ropa de Niña** (604) — Tipo 3 (Validación)
-- **Ropa de Niño** (605) — Tipo 3 (Validación)
-- **Vehículos y Pistas de Juguete** (606) — Tipo 3 (Validación)
-- **Otros Niños y Juguetería** (699) — Tipo 4 (No Prioridad)
-## Automotriz
-- **Accesorios para Vehículos** (701) — Tipo 2 (Regex)
-- **Aceites y Fluidos para Vehículos** (702) — Tipo 2 (Regex)
-- **Audio y Electrónica para Auto** (703) — Tipo 2 (Regex)
-- **Motociclismo** (704) — Tipo 2 (Regex)
-- **Neumáticos y Llantas** (705) — Tipo 2 (Regex)
-- **Repuestos de Vehículos** (706) — Tipo 2 (Regex)
-- **Otros Automotriz** (799) — Tipo 4 (No Prioridad)
-## Mascotas
-- **Alimento para Mascotas** (801) — Tipo 3 (Validación)
-- **Camas y Casas para Mascotas** (802) — Tipo 3 (Validación)
-- **Higiene y Cuidado de Mascotas** (803) — Tipo 3 (Validación)
-- **Juguetes y Accesorios para Mascotas** (804) — Tipo 3 (Validación)
-- **Otros Mascotas** (899) — Tipo 4 (No Prioridad)
-## Deportes y Salud
-- **Bicicletas y Ciclismo** (901) — Tipo 3 (Validación)
-- **Medicamentos y Farmacia** (902) — Tipo 3 (Validación)
-- **Fitness y Musculación** (903) — Tipo 3 (Validación)
-- **Salud y Equipamiento Médico** (904) — Tipo 3 (Validación)
-- **Suplementos Alimenticios y Vitaminas** (905) — Tipo 3 (Validación)
-- **Camping y Outdoor** (906) — Tipo 3 (Validación)
-- **Deportes Acuáticos, Nieve y Extremos** (907) — Tipo 3 (Validación)
-- **Deportes Colectivos** (908) — Tipo 3 (Validación)
-- **Otros Deportes y Salud** (999) — Tipo 4 (No Prioridad)
-## Belleza y Cuidado Personal
-- **Cuidado de la Piel y Dermocosmética** (1001) — Tipo 3 (Validación)
-- **Cuidado del Cabello** (1002) — Tipo 3 (Validación)
-- **Cuidado Personal Eléctrico** (1003) — Tipo 3 (Validación)
-- **Higiene Personal** (1004) — Tipo 2 (Regex)
-- **Maquillaje** (1005) — Tipo 3 (Validación)
-- **Perfumes y Fragancias** (1006) — Tipo 3 (Validación)
-- **Otros Belleza y Cuidado Personal** (1099) — Tipo 4 (No Prioridad)
-## Alimentos y Bebidas
-- **Bebidas Alcohólicas** (1101) — Tipo 3 (Validación)
-- **Despensa y Alimentos No Perecibles** (1102) — Tipo 3 (Validación)
-- **Bebidas No Alcohólicas** (1103) — Tipo 3 (Validación)
-- **Panadería y Pastelería** (1104) — Tipo 3 (Validación)
-- **Congelados** (1105) — Tipo 3 (Validación)
-- **Carnes y Pescados** (1106) — Tipo 3 (Validación)
-- **Frutas y Verduras** (1107) — Tipo 3 (Validación)
-- **Lácteos, Quesos y Huevos** (1108) — Tipo 3 (Validación)
-- **Dulces y Snacks** (1109) — Tipo 3 (Validación)
-- **Embutidos** (1110) — Tipo 3 (Validación)
-- **Otros Alimentos y Bebidas** (1199) — Tipo 4 (No Prioridad)
-## Librería y Pasatiempos
-- **Instrumentos Musicales** (1201) — Tipo 2 (Regex)
-- **Juegos de Mesa y Puzzles** (1202) — Tipo 2 (Regex)
-- **Libros, Papelería y Artículos de Oficina** (1203) — Tipo 2 (Regex)
-- **Instrumentos Ópticos (Telescopios, Microscopios, Binoculares)** (1204) — Tipo 2 (Regex)
-- **Accesorios para Instrumentos Musicales** (1205) — Tipo 2 (Regex)
-- **Otros Librería y Pasatiempos** (1299) — Tipo 4 (No Prioridad)
-## Ferretería y Construcción
-- **Carpintería y Madera** (176) — Tipo 2 (Regex)
-- **Fijaciones, Adhesivos y Consumibles** (1301) — Tipo 2 (Regex)
-- **Materiales de Construcción** (1302) — Tipo 2 (Regex)
-- **Herramientas Eléctricas** (1303) — Tipo 2 (Regex)
-- **Herramientas Manuales** (1304) — Tipo 2 (Regex)
-- **Pinturas y Acabados** (1305) — Tipo 2 (Regex)
-- **Fontanería y Plomería (Tuberías, Grifería, Sifones, Llaves de Paso)** (1306) — Tipo 2 (Regex)
-- **Electricidad e Instalaciones (Cables, Enchufes, Interruptores, Tableros Eléctricos)** (1307) — Tipo 2 (Regex)
-- **Otros Ferretería y Construcción** (1399) — Tipo 4 (No Prioridad)
+**150 categorías · 14 dominios · Tipo 1=33 Tipo 2=59 Tipo 3=40 Tipo 4=18**
+
+## Excluidos  
+- **Categoria Indeterminada** (0) — 
+- **Error de Parseo** (400) — 
+## Tecnología  
+- **Audífonos** (4) — ⭐
+- **Cámaras** (6) — ⭐
+- **Desktops y All-in-One** (9) — ⭐
+- **Impresoras y Scanners** (11) — ⭐
+- **Monitores** (13) — ⭐
+- **Notebooks** (14) — ⭐
+- **Parlantes y Soundbars** (15) — ⭐
+- **Smartwatches y Smartbands** (19) — 
+- **Sistemas de Audio y Home Theater** (20) — ⭐
+- **Tablets** (21) — ⭐
+- **Televisores** (23) — ⭐
+- **Celulares y Smartphones** (24) — ⭐
+- **Proyectores** (27) — ⭐
+- **Componentes de PC (Tarjetas de video, RAM, Discos Duros/SSD)** (101) — 
+- **Consolas de Videojuegos** (102) — 
+- **Drones** (103) — 
+- **Media Streaming (Chromecast, Apple TV, Roku)** (104) — 
+- **Realidad Virtual (VR)** (105) — 
+- **Seguridad y Vigilancia Inteligente (Cámaras, Sensores)** (106) — 
+- **Smart Home (Asistentes de Voz, Iluminación Inteligente)** (107) — 
+- **E-readers** (108) — 
+- **Impresión 3D (Impresoras 3D, Filamentos, Resinas)** (109) — 
+- **Micrófonos** (110) — 
+- **Tabletas Gráficas** (111) — 
+- **Accesorios y Periféricos de Tecnología** (112) — 
+- **Videocámaras y Filmadoras** (156) — ⭐
+## Electrodomésticos  
+- **Aire Acondicionado y Climatización** (33) — ⭐
+- **Aspiradoras y Limpiadores a Vapor** (34) — ⭐
+- **Calefonts y Termos Eléctricos** (35) — ⭐
+- **Campanas y Extractores** (36) — 
+- **Cocinas, Hornos y Encimeras** (37) — 
+- **Lavadoras y Secadoras** (38) — ⭐
+- **Lavavajillas** (39) — ⭐
+- **Microondas** (41) — ⭐
+- **Pequeños Electrodomésticos de Cocina (otros)** (42) — 
+- **Planchas** (43) — ⭐
+- **Refrigeradores, Freezers y Frigobares** (45) — ⭐
+- **Calefactores y Estufas** (137) — ⭐
+- **Parrillas** (138) — ⭐
+- **Ventiladores (Techo, Pedestal, Torre, Mesa)** (155) — ⭐
+- **Cafeteras** (158) — 
+- **Freidoras y Multiollas** (159) — 
+- **Licuadoras** (160) — ⭐
+- **Batidoras** (161) — ⭐
+- **Sandwicheras y Tostadoras** (162) — 
+- **Hervidores Eléctricos** (163) — 
+- **Máquinas de Coser** (201) — 
+- **Purificadores y Humidificadores** (202) — 
+- **Repuestos y Accesorios de Electrodomésticos** (203) — 
+## Hogar  
+- **Camas y Bases de Cama** (48) — 
+- **Colchones** (49) — 
+- **Muebles de Dormitorio** (54) — 
+- **Muebles de Living** (55) — 
+- **Ropa de Cama y Textiles** (57) — 
+- **Ampolletas, Focos y Accesorios de Iluminación** (165) — 
+- **Adornos, Decoración y Elementos Festivos** (301) — 
+- **Aseo y Limpieza del Hogar** (302) — 
+- **Lámparas y Luminarias** (303) — 
+- **Jardinería (Maceteros, Herramientas de Jardín, Semillas, Cortacéspedes, Riego)** (304) — 
+- **Muebles de Comedor** (305) — 
+- **Menaje de Cocina, Comedor y Servir** (306) — 
+- **Muebles de Oficina** (307) — 
+- **Soportes, Racks y Stands** (308) — 
+- **Muebles de Baño** (309) — 
+- **Termos, Tazas y Mugs** (310) — 
+- **Contenedores, Organizadores y Almacenamiento del Hogar (Cajas, Cajones, Canastos, Separadores)** (311) — 
+- **Piscinas y Spa (Bombas, Filtros, Cloro, Limpiafondos, Cubiertas)** (312) — 
+- **Otros Hogar** (399) — 
+## Moda, Accesorios y Calzado  
+- **Polerones y Sudaderas** (401) — 
+- **Poleras y Camisetas** (402) — 
+- **Pantalones y Shorts** (403) — 
+- **Chaquetas, Parkas y Abrigos** (404) — 
+- **Calzado** (405) — 
+- **Ropa Interior, Calcetines y Ropa de Dormir** (406) — 
+- **Vestidos, Faldas y Ropa Formal** (407) — 
+- **Trajes de Baño y Ropa de Playa** (408) — 
+- **Bolsos, Mochilas, Carteras y Equipaje** (409) — 
+- **Accesorios de Moda** (410) — 
+## Bebés y Maternidad  
+- **Calzado Infantil** (501) — 
+- **Coches, Sillas de Auto y Paseo Infantil** (502) — 
+- **Dormitorio del Bebé** (503) — 
+- **Higiene y Cuidado del Bebé** (504) — 
+- **Juguetes y Entretención para Bebés** (505) — 
+- **Lactancia y Alimentación del Bebé** (506) — 
+- **Ropa de Bebé** (507) — 
+- **Seguridad para Bebés en el Hogar** (508) — 
+- **Otros Bebés y Maternidad** (599) — 
+## Niños y Juguetería  
+- **Disfraces** (601) — 
+- **Juguetes de Exterior** (602) — 
+- **Muñecas y Figuras de Acción** (603) — 
+- **Ropa de Niña** (604) — 
+- **Ropa de Niño** (605) — 
+- **Vehículos y Pistas de Juguete** (606) — 
+- **Otros Niños y Juguetería** (699) — 
+## Automotriz  
+- **Accesorios para Vehículos** (701) — 
+- **Aceites y Fluidos para Vehículos** (702) — 
+- **Audio y Electrónica para Auto** (703) — 
+- **Motociclismo** (704) — 
+- **Neumáticos y Llantas** (705) — 
+- **Repuestos de Vehículos** (706) — 
+- **Otros Automotriz** (799) — 
+## Mascotas  
+- **Alimento para Mascotas** (801) — 
+- **Camas y Casas para Mascotas** (802) — 
+- **Higiene y Cuidado de Mascotas** (803) — 
+- **Juguetes y Accesorios para Mascotas** (804) — 
+- **Otros Mascotas** (899) — 
+## Deportes y Salud  
+- **Bicicletas y Ciclismo** (901) — 
+- **Medicamentos y Farmacia** (902) — 
+- **Fitness y Musculación** (903) — 
+- **Salud y Equipamiento Médico** (904) — 
+- **Suplementos Alimenticios y Vitaminas** (905) — 
+- **Camping y Outdoor** (906) — 
+- **Deportes Acuáticos, Nieve y Extremos** (907) — 
+- **Deportes Colectivos** (908) — 
+- **Otros Deportes y Salud** (999) — 
+## Belleza y Cuidado Personal  
+- **Cuidado de la Piel y Dermocosmética** (1001) — 
+- **Cuidado del Cabello** (1002) — 
+- **Cuidado Personal Eléctrico** (1003) — 
+- **Higiene Personal** (1004) — 
+- **Maquillaje** (1005) — 
+- **Perfumes y Fragancias** (1006) — 
+- **Otros Belleza y Cuidado Personal** (1099) — 
+## Alimentos y Bebidas  
+- **Bebidas Alcohólicas** (1101) — 
+- **Despensa y Alimentos No Perecibles** (1102) — 
+- **Bebidas No Alcohólicas** (1103) — 
+- **Panadería y Pastelería** (1104) — 
+- **Congelados** (1105) — 
+- **Carnes y Pescados** (1106) — 
+- **Frutas y Verduras** (1107) — 
+- **Lácteos, Quesos y Huevos** (1108) — 
+- **Dulces y Snacks** (1109) — 
+- **Embutidos** (1110) — 
+- **Otros Alimentos y Bebidas** (1199) — 
+## Librería y Pasatiempos  
+- **Instrumentos Musicales** (1201) — 
+- **Juegos de Mesa y Puzzles** (1202) — 
+- **Libros, Papelería y Artículos de Oficina** (1203) — 
+- **Instrumentos Ópticos (Telescopios, Microscopios, Binoculares)** (1204) — 
+- **Accesorios para Instrumentos Musicales** (1205) — 
+- **Otros Librería y Pasatiempos** (1299) — 
+## Ferretería y Construcción  
+- **Carpintería y Madera** (176) — 
+- **Fijaciones, Adhesivos y Consumibles** (1301) — 
+- **Materiales de Construcción** (1302) — 
+- **Herramientas Eléctricas** (1303) — 
+- **Herramientas Manuales** (1304) — 
+- **Pinturas y Acabados** (1305) — 
+- **Fontanería y Plomería (Tuberías, Grifería, Sifones, Llaves de Paso)** (1306) — 
+- **Electricidad e Instalaciones (Cables, Enchufes, Interruptores, Tableros Eléctricos)** (1307) — 
+- **Otros Ferretería y Construcción** (1399) — 
