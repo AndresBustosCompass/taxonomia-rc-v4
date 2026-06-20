@@ -4,169 +4,167 @@ markmap:
 ---
 # Taxonomía RC v4
 
-**150 categorías · 14 dominios**
-
 ## Excluidos
-- **Categoria Indeterminada** (0) ★★★★
-- **Error de Parseo** (400) ★★★★
+- Categoria Indeterminada (0) ⭐⭐⭐⭐
+- Error de Parseo (400) ⭐⭐⭐⭐
 ## Tecnología
-- **Audífonos** (4) ★★★★★ ⭐
-- **Cámaras** (6) ★★★★★ ⭐
-- **Desktops y All-in-One** (9) ★★★★★ ⭐
-- **Impresoras y Scanners** (11) ★★★★★ ⭐
-- **Monitores** (13) ★★★★★ ⭐
-- **Notebooks** (14) ★★★★★ ⭐
-- **Parlantes y Soundbars** (15) ★★★★★ ⭐
-- **Smartwatches y Smartbands** (19) ★★★★★
-- **Sistemas de Audio y Home Theater** (20) ★★★★★ ⭐
-- **Tablets** (21) ★★★★★ ⭐
-- **Televisores** (23) ★★★★★ ⭐
-- **Celulares y Smartphones** (24) ★★★★★ ⭐
-- **Proyectores** (27) ★★★★★ ⭐
-- **Componentes de PC (Tarjetas de video, RAM, Discos Duros/SSD)** (101) ★★★★
-- **Consolas de Videojuegos** (102) ★★★★
-- **Drones** (103) ★★★★
-- **Media Streaming (Chromecast, Apple TV, Roku)** (104) ★★★★
-- **Realidad Virtual (VR)** (105) ★★★★
-- **Seguridad y Vigilancia Inteligente (Cámaras, Sensores)** (106) ★★★★
-- **Smart Home (Asistentes de Voz, Iluminación Inteligente)** (107) ★★★★
-- **E-readers** (108) ★★★★
-- **Impresión 3D (Impresoras 3D, Filamentos, Resinas)** (109) ★★★★
-- **Micrófonos** (110) ★★★★
-- **Tabletas Gráficas** (111) ★★★★
-- **Accesorios y Periféricos de Tecnología** (112) ★
-- **Videocámaras y Filmadoras** (156) ★★★★★ ⭐
+- **Audífonos** (4) ⭐⭐⭐⭐⭐
+- **Cámaras** (6) ⭐⭐⭐⭐⭐
+- **Desktops y All-in-One** (9) ⭐⭐⭐⭐⭐
+- **Impresoras y Scanners** (11) ⭐⭐⭐⭐⭐
+- **Monitores** (13) ⭐⭐⭐⭐⭐
+- **Notebooks** (14) ⭐⭐⭐⭐⭐
+- **Parlantes y Soundbars** (15) ⭐⭐⭐⭐⭐
+- **Smartwatches y Smartbands** (19) ⭐⭐⭐⭐⭐
+- **Sistemas de Audio y Home Theater** (20) ⭐⭐⭐⭐⭐
+- **Tablets** (21) ⭐⭐⭐⭐⭐
+- **Televisores** (23) ⭐⭐⭐⭐⭐
+- **Celulares y Smartphones** (24) ⭐⭐⭐⭐⭐
+- Proyectores (27) ⭐⭐⭐⭐⭐
+- Componentes de PC (Tarjetas de video, RAM, Discos Duros/SSD) (101) ⭐⭐⭐⭐
+- Consolas de Videojuegos (102) ⭐⭐⭐⭐
+- Drones (103) ⭐⭐⭐⭐
+- Media Streaming (Chromecast, Apple TV, Roku) (104) ⭐⭐⭐⭐
+- Realidad Virtual (VR) (105) ⭐⭐⭐⭐
+- Seguridad y Vigilancia Inteligente (Cámaras, Sensores) (106) ⭐⭐⭐⭐
+- Smart Home (Asistentes de Voz, Iluminación Inteligente) (107) ⭐⭐⭐⭐
+- E-readers (108) ⭐⭐⭐⭐
+- Impresión 3D (Impresoras 3D, Filamentos, Resinas) (109) ⭐⭐⭐⭐
+- Micrófonos (110) ⭐⭐⭐⭐
+- Tabletas Gráficas (111) ⭐⭐⭐⭐
+- Accesorios y Periféricos de Tecnología (112) ⭐
+- **Videocámaras y Filmadoras** (156) ⭐⭐⭐⭐⭐
 ## Electrodomésticos
-- **Aire Acondicionado y Climatización** (33) ★★★★★ ⭐
-- **Aspiradoras y Limpiadores a Vapor** (34) ★★★★★ ⭐
-- **Calefonts y Termos Eléctricos** (35) ★★★★★ ⭐
-- **Campanas y Extractores** (36) ★★★★★
-- **Cocinas, Hornos y Encimeras** (37) ★★★★★
-- **Lavadoras y Secadoras** (38) ★★★★★ ⭐
-- **Lavavajillas** (39) ★★★★★ ⭐
-- **Microondas** (41) ★★★★★ ⭐
-- **Pequeños Electrodomésticos de Cocina (otros)** (42) ★★★★★
-- **Planchas** (43) ★★★★★ ⭐
-- **Refrigeradores, Freezers y Frigobares** (45) ★★★★★ ⭐
-- **Calefactores y Estufas** (137) ★★★★★ ⭐
-- **Parrillas** (138) ★★★★★ ⭐
-- **Ventiladores (Techo, Pedestal, Torre, Mesa)** (155) ★★★★★ ⭐
-- **Cafeteras** (158) ★★★★
-- **Freidoras y Multiollas** (159) ★★★★
-- **Licuadoras** (160) ★★★★ ⭐
-- **Batidoras** (161) ★★★★ ⭐
-- **Sandwicheras y Tostadoras** (162) ★★★★
-- **Hervidores Eléctricos** (163) ★★★★
-- **Máquinas de Coser** (201) ★★★★
-- **Purificadores y Humidificadores** (202) ★★★★
-- **Repuestos y Accesorios de Electrodomésticos** (203) ★
+- **Aire Acondicionado y Climatización** (33) ⭐⭐⭐⭐⭐
+- **Aspiradoras y Limpiadores a Vapor** (34) ⭐⭐⭐⭐⭐
+- **Calefonts y Termos Eléctricos** (35) ⭐⭐⭐⭐⭐
+- **Campanas y Extractores** (36) ⭐⭐⭐⭐⭐
+- **Cocinas, Hornos y Encimeras** (37) ⭐⭐⭐⭐⭐
+- **Lavadoras y Secadoras** (38) ⭐⭐⭐⭐⭐
+- **Lavavajillas** (39) ⭐⭐⭐⭐⭐
+- **Microondas** (41) ⭐⭐⭐⭐⭐
+- **Pequeños Electrodomésticos de Cocina (otros)** (42) ⭐⭐⭐⭐⭐
+- **Planchas** (43) ⭐⭐⭐⭐⭐
+- **Refrigeradores, Freezers y Frigobares** (45) ⭐⭐⭐⭐⭐
+- **Calefactores y Estufas** (137) ⭐⭐⭐⭐⭐
+- Parrillas (138) ⭐⭐⭐⭐⭐
+- Ventiladores (Techo, Pedestal, Torre, Mesa) (155) ⭐⭐⭐⭐⭐
+- **Cafeteras** (158) ⭐⭐⭐⭐
+- **Freidoras y Multiollas** (159) ⭐⭐⭐⭐
+- **Licuadoras** (160) ⭐⭐⭐⭐
+- **Batidoras** (161) ⭐⭐⭐⭐
+- **Sandwicheras y Tostadoras** (162) ⭐⭐⭐⭐
+- **Hervidores Eléctricos** (163) ⭐⭐⭐⭐
+- Máquinas de Coser (201) ⭐⭐⭐⭐
+- Purificadores y Humidificadores (202) ⭐⭐⭐⭐
+- Repuestos y Accesorios de Electrodomésticos (203) ⭐
 ## Hogar
-- **Camas y Bases de Cama** (48) ★★★★★
-- **Colchones** (49) ★★★★★
-- **Muebles de Dormitorio** (54) ★★★★★
-- **Muebles de Living** (55) ★★★★★
-- **Ropa de Cama y Textiles** (57) ★★★★★
-- **Ampolletas, Focos y Accesorios de Iluminación** (165) ★★★★
-- **Adornos, Decoración y Elementos Festivos** (301) ★★★★
-- **Aseo y Limpieza del Hogar** (302) ★★★★
-- **Lámparas y Luminarias** (303) ★★★★
-- **Jardinería (Maceteros, Herramientas de Jardín, Semillas, Cortacéspedes, Riego)** (304) ★★★★
-- **Muebles de Comedor** (305) ★★★★
-- **Menaje de Cocina, Comedor y Servir** (306) ★★★★
-- **Muebles de Oficina** (307) ★★★★
-- **Soportes, Racks y Stands** (308) ★
-- **Muebles de Baño** (309) ★
-- **Termos, Tazas y Mugs** (310) ★★★★
-- **Contenedores, Organizadores y Almacenamiento del Hogar (Cajas, Cajones, Canastos, Separadores)** (311) ★★★★
-- **Piscinas y Spa (Bombas, Filtros, Cloro, Limpiafondos, Cubiertas)** (312) ★
-- **Otros Hogar** (399) ★
+- **Camas y Bases de Cama** (48) ⭐⭐⭐⭐⭐
+- **Colchones** (49) ⭐⭐⭐⭐⭐
+- **Muebles de Dormitorio** (54) ⭐⭐⭐⭐⭐
+- **Muebles de Living** (55) ⭐⭐⭐⭐⭐
+- **Ropa de Cama y Textiles** (57) ⭐⭐⭐⭐⭐
+- **Ampolletas, Focos y Accesorios de Iluminación** (165) ⭐⭐⭐⭐
+- Adornos, Decoración y Elementos Festivos (301) ⭐⭐⭐⭐
+- Aseo y Limpieza del Hogar (302) ⭐⭐⭐⭐
+- Lámparas y Luminarias (303) ⭐⭐⭐⭐
+- Jardinería (Maceteros, Herramientas de Jardín, Semillas, Cortacéspedes, Riego) (304) ⭐⭐⭐⭐
+- Muebles de Comedor (305) ⭐⭐⭐⭐
+- Menaje de Cocina, Comedor y Servir (306) ⭐⭐⭐⭐
+- Muebles de Oficina (307) ⭐⭐⭐⭐
+- Soportes, Racks y Stands (308) ⭐
+- Muebles de Baño (309) ⭐
+- Termos, Tazas y Mugs (310) ⭐⭐⭐⭐
+- Contenedores, Organizadores y Almacenamiento del Hogar (Cajas, Cajones, Canastos, Separadores) (311) ⭐⭐⭐⭐
+- Piscinas y Spa (Bombas, Filtros, Cloro, Limpiafondos, Cubiertas) (312) ⭐
+- Otros Hogar (399) ⭐
 ## Moda, Accesorios y Calzado
-- **Polerones y Sudaderas** (401) ★★★★
-- **Poleras y Camisetas** (402) ★★★★
-- **Pantalones y Shorts** (403) ★★★★
-- **Chaquetas, Parkas y Abrigos** (404) ★★★★
-- **Calzado** (405) ★★★★
-- **Ropa Interior, Calcetines y Ropa de Dormir** (406) ★★★★
-- **Vestidos, Faldas y Ropa Formal** (407) ★★★★
-- **Trajes de Baño y Ropa de Playa** (408) ★★★★
-- **Bolsos, Mochilas, Carteras y Equipaje** (409) ★★★★
-- **Accesorios de Moda** (410) ★
+- **Polerones y Sudaderas** (401) ⭐⭐⭐⭐
+- **Poleras y Camisetas** (402) ⭐⭐⭐⭐
+- **Pantalones y Shorts** (403) ⭐⭐⭐⭐
+- **Chaquetas, Parkas y Abrigos** (404) ⭐⭐⭐⭐
+- **Calzado** (405) ⭐⭐⭐⭐
+- **Ropa Interior, Calcetines y Ropa de Dormir** (406) ⭐⭐⭐⭐
+- **Vestidos, Faldas y Ropa Formal** (407) ⭐⭐⭐⭐
+- **Trajes de Baño y Ropa de Playa** (408) ⭐⭐⭐⭐
+- **Bolsos, Mochilas, Carteras y Equipaje** (409) ⭐⭐⭐⭐
+- **Accesorios de Moda** (410) ⭐
 ## Bebés y Maternidad
-- **Calzado Infantil** (501) ★★★
-- **Coches, Sillas de Auto y Paseo Infantil** (502) ★★★
-- **Dormitorio del Bebé** (503) ★★★★
-- **Higiene y Cuidado del Bebé** (504) ★★★
-- **Juguetes y Entretención para Bebés** (505) ★★★
-- **Lactancia y Alimentación del Bebé** (506) ★★★★
-- **Ropa de Bebé** (507) ★★★
-- **Seguridad para Bebés en el Hogar** (508) ★★★
-- **Otros Bebés y Maternidad** (599) ★
+- Calzado Infantil (501) ⭐⭐⭐
+- Coches, Sillas de Auto y Paseo Infantil (502) ⭐⭐⭐
+- Dormitorio del Bebé (503) ⭐⭐⭐⭐
+- Higiene y Cuidado del Bebé (504) ⭐⭐⭐
+- Juguetes y Entretención para Bebés (505) ⭐⭐⭐
+- Lactancia y Alimentación del Bebé (506) ⭐⭐⭐⭐
+- Ropa de Bebé (507) ⭐⭐⭐
+- Seguridad para Bebés en el Hogar (508) ⭐⭐⭐
+- Otros Bebés y Maternidad (599) ⭐
 ## Niños y Juguetería
-- **Disfraces** (601) ★★★
-- **Juguetes de Exterior** (602) ★★★
-- **Muñecas y Figuras de Acción** (603) ★★★
-- **Ropa de Niña** (604) ★★★
-- **Ropa de Niño** (605) ★★★
-- **Vehículos y Pistas de Juguete** (606) ★★★
-- **Otros Niños y Juguetería** (699) ★
+- Disfraces (601) ⭐⭐⭐
+- Juguetes de Exterior (602) ⭐⭐⭐
+- Muñecas y Figuras de Acción (603) ⭐⭐⭐
+- Ropa de Niña (604) ⭐⭐⭐
+- Ropa de Niño (605) ⭐⭐⭐
+- Vehículos y Pistas de Juguete (606) ⭐⭐⭐
+- Otros Niños y Juguetería (699) ⭐
 ## Automotriz
-- **Accesorios para Vehículos** (701) ★★★★
-- **Aceites y Fluidos para Vehículos** (702) ★★★★
-- **Audio y Electrónica para Auto** (703) ★★★★
-- **Motociclismo** (704) ★★★★
-- **Neumáticos y Llantas** (705) ★★★★
-- **Repuestos de Vehículos** (706) ★★★★
-- **Otros Automotriz** (799) ★
+- Accesorios para Vehículos (701) ⭐⭐⭐⭐
+- Aceites y Fluidos para Vehículos (702) ⭐⭐⭐⭐
+- Audio y Electrónica para Auto (703) ⭐⭐⭐⭐
+- Motociclismo (704) ⭐⭐⭐⭐
+- Neumáticos y Llantas (705) ⭐⭐⭐⭐
+- Repuestos de Vehículos (706) ⭐⭐⭐⭐
+- Otros Automotriz (799) ⭐
 ## Mascotas
-- **Alimento para Mascotas** (801) ★★★
-- **Camas y Casas para Mascotas** (802) ★★★
-- **Higiene y Cuidado de Mascotas** (803) ★★★
-- **Juguetes y Accesorios para Mascotas** (804) ★★★
-- **Otros Mascotas** (899) ★
+- Alimento para Mascotas (801) ⭐⭐⭐
+- Camas y Casas para Mascotas (802) ⭐⭐⭐
+- Higiene y Cuidado de Mascotas (803) ⭐⭐⭐
+- Juguetes y Accesorios para Mascotas (804) ⭐⭐⭐
+- Otros Mascotas (899) ⭐
 ## Deportes y Salud
-- **Bicicletas y Ciclismo** (901) ★★★
-- **Medicamentos y Farmacia** (902) ★★★★
-- **Fitness y Musculación** (903) ★★★
-- **Salud y Equipamiento Médico** (904) ★★★★
-- **Suplementos Alimenticios y Vitaminas** (905) ★★★
-- **Camping y Outdoor** (906) ★★★
-- **Deportes Acuáticos, Nieve y Extremos** (907) ★★★
-- **Deportes Colectivos** (908) ★★★
-- **Otros Deportes y Salud** (999) ★
+- Bicicletas y Ciclismo (901) ⭐⭐⭐
+- Medicamentos y Farmacia (902) ⭐⭐⭐⭐
+- Fitness y Musculación (903) ⭐⭐⭐
+- Salud y Equipamiento Médico (904) ⭐⭐⭐⭐
+- Suplementos Alimenticios y Vitaminas (905) ⭐⭐⭐
+- Camping y Outdoor (906) ⭐⭐⭐
+- Deportes Acuáticos, Nieve y Extremos (907) ⭐⭐⭐
+- Deportes Colectivos (908) ⭐⭐⭐
+- Otros Deportes y Salud (999) ⭐
 ## Belleza y Cuidado Personal
-- **Cuidado de la Piel y Dermocosmética** (1001) ★★★
-- **Cuidado del Cabello** (1002) ★★★
-- **Cuidado Personal Eléctrico** (1003) ★★★
-- **Higiene Personal** (1004) ★★★★
-- **Maquillaje** (1005) ★★★
-- **Perfumes y Fragancias** (1006) ★★★
-- **Otros Belleza y Cuidado Personal** (1099) ★
+- Cuidado de la Piel y Dermocosmética (1001) ⭐⭐⭐
+- Cuidado del Cabello (1002) ⭐⭐⭐
+- Cuidado Personal Eléctrico (1003) ⭐⭐⭐
+- Higiene Personal (1004) ⭐⭐⭐⭐
+- Maquillaje (1005) ⭐⭐⭐
+- Perfumes y Fragancias (1006) ⭐⭐⭐
+- Otros Belleza y Cuidado Personal (1099) ⭐
 ## Alimentos y Bebidas
-- **Bebidas Alcohólicas** (1101) ★★★
-- **Despensa y Alimentos No Perecibles** (1102) ★★★
-- **Bebidas No Alcohólicas** (1103) ★★★
-- **Panadería y Pastelería** (1104) ★★★
-- **Congelados** (1105) ★★★
-- **Carnes y Pescados** (1106) ★★★
-- **Frutas y Verduras** (1107) ★★★
-- **Lácteos, Quesos y Huevos** (1108) ★★★
-- **Dulces y Snacks** (1109) ★★★
-- **Embutidos** (1110) ★★★
-- **Otros Alimentos y Bebidas** (1199) ★
+- Bebidas Alcohólicas (1101) ⭐⭐⭐
+- Despensa y Alimentos No Perecibles (1102) ⭐⭐⭐
+- Bebidas No Alcohólicas (1103) ⭐⭐⭐
+- Panadería y Pastelería (1104) ⭐⭐⭐
+- Congelados (1105) ⭐⭐⭐
+- Carnes y Pescados (1106) ⭐⭐⭐
+- Frutas y Verduras (1107) ⭐⭐⭐
+- Lácteos, Quesos y Huevos (1108) ⭐⭐⭐
+- Dulces y Snacks (1109) ⭐⭐⭐
+- Embutidos (1110) ⭐⭐⭐
+- Otros Alimentos y Bebidas (1199) ⭐
 ## Librería y Pasatiempos
-- **Instrumentos Musicales** (1201) ★★★★
-- **Juegos de Mesa y Puzzles** (1202) ★★★★
-- **Libros, Papelería y Artículos de Oficina** (1203) ★★★★
-- **Instrumentos Ópticos (Telescopios, Microscopios, Binoculares)** (1204) ★★★★
-- **Accesorios para Instrumentos Musicales** (1205) ★★★★
-- **Otros Librería y Pasatiempos** (1299) ★
+- Instrumentos Musicales (1201) ⭐⭐⭐⭐
+- Juegos de Mesa y Puzzles (1202) ⭐⭐⭐⭐
+- Libros, Papelería y Artículos de Oficina (1203) ⭐⭐⭐⭐
+- Instrumentos Ópticos (Telescopios, Microscopios, Binoculares) (1204) ⭐⭐⭐⭐
+- Accesorios para Instrumentos Musicales (1205) ⭐⭐⭐⭐
+- Otros Librería y Pasatiempos (1299) ⭐
 ## Ferretería y Construcción
-- **Carpintería y Madera** (176) ★★★★
-- **Fijaciones, Adhesivos y Consumibles** (1301) ★★★★
-- **Materiales de Construcción** (1302) ★★★★
-- **Herramientas Eléctricas** (1303) ★★★★
-- **Herramientas Manuales** (1304) ★★★★
-- **Pinturas y Acabados** (1305) ★★★★
-- **Fontanería y Plomería (Tuberías, Grifería, Sifones, Llaves de Paso)** (1306) ★★★★
-- **Electricidad e Instalaciones (Cables, Enchufes, Interruptores, Tableros Eléctricos)** (1307) ★★★★
-- **Otros Ferretería y Construcción** (1399) ★
+- **Carpintería y Madera** (176) ⭐⭐⭐⭐
+- Fijaciones, Adhesivos y Consumibles (1301) ⭐⭐⭐⭐
+- Materiales de Construcción (1302) ⭐⭐⭐⭐
+- Herramientas Eléctricas (1303) ⭐⭐⭐⭐
+- Herramientas Manuales (1304) ⭐⭐⭐⭐
+- Pinturas y Acabados (1305) ⭐⭐⭐⭐
+- Fontanería y Plomería (Tuberías, Grifería, Sifones, Llaves de Paso) (1306) ⭐⭐⭐⭐
+- Electricidad e Instalaciones (Cables, Enchufes, Interruptores, Tableros Eléctricos) (1307) ⭐⭐⭐⭐
+- Otros Ferretería y Construcción (1399) ⭐
